@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperatura", "Temperatura\Temperatura.csproj", "{B5C9AAE3-3BE1-4A50-B0CC-DCC095BF5685}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{490AB5E6-DD97-4889-B649-C2CBBDF2D482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C9AAE3-3BE1-4A50-B0CC-DCC095BF5685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C9AAE3-3BE1-4A50-B0CC-DCC095BF5685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C9AAE3-3BE1-4A50-B0CC-DCC095BF5685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C9AAE3-3BE1-4A50-B0CC-DCC095BF5685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490AB5E6-DD97-4889-B649-C2CBBDF2D482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490AB5E6-DD97-4889-B649-C2CBBDF2D482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490AB5E6-DD97-4889-B649-C2CBBDF2D482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490AB5E6-DD97-4889-B649-C2CBBDF2D482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE76B6D9-3AB9-4A25-A227-DAB3F64012D0}
+	EndGlobalSection
+EndGlobal
